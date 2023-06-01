@@ -1,0 +1,12 @@
+consider a JSON
+
+
+[{"day 1": "Reach the destination"},
+
+("day 2": "City Tour in a company tourist bus"}, ("day 2": "Breakfast & Dinner"},{"day 3":"Visit Chang-La"},
+
+{"day 4":"Back to your home"}]
+
+User Story 1: Create a typescript UI to display the distinct days in a drop down.
+
+User Story 2: On Selection of day from drop down display the corresponding text in the div. Multiple contents are displayed on new line, like for day 2 there are two contents.
